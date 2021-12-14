@@ -1,1 +1,0 @@
-echo("Mes chers compatriotes");
