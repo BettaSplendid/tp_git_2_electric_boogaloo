@@ -1,1 +1,0 @@
-echo("Les produits de nos regions")
