@@ -12,4 +12,3 @@ motdepasse
     12345678.
     qwerty.
  -->
-a
